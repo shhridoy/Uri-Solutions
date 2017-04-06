@@ -1,10 +1,12 @@
-# Uri-Solutions
-My code
+# Uri Online Judge Solutions
 
-This codes was written by me. 
-Try the best before you copy the code. 
-Thing about the code and logic. After you satisfy your trial then you can see the others code. But don't copy exactly same code.
-It is soo bad. ---- :)
+This repository contains the all of my solution for the Uri Online Judge problems. 
+In this site the problems seem too easier than other online judge site. So it is good start up website for the contest programmer and for the novice. 
+Link of this site: https://www.urionlinejudge.com
 
-Join me in Facebook https://www.facebook.com/unwantedhridoy.cptrii
+### Author
+MD. Saiful Haque Hridoy
+Noakhali Science and Technology University
+Department of CSTE.
+Facebook https://www.facebook.com/unwantedhridoy.cptrii
 Email: md.saifulhq@gmail.com
